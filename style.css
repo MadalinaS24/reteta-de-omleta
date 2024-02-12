@@ -1,0 +1,119 @@
+img {
+padding: 20px; 
+width: 500px;
+height: 250px;
+border-radius: 13%
+}
+
+body {
+    background-color: rgb(253, 231, 231);
+    display: block;
+    padding: 2%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 16px;
+    width: min-content;
+    overflow: scroll;
+    line-height: 25px;
+    margin-right: 400px;
+    margin-left: 400px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+    
+
+
+}
+ #second-title {
+    color: hsl(332, 51%, 32%);
+ }
+ 
+ #title-3{
+    color: hsl(14, 45%, 36%);
+ }
+
+ #title-4{
+    color: hsl(14, 45%, 36%);
+ }
+
+ #title-5{
+   color: hsl(14, 45%, 36%);
+ }
+
+ table{
+    width: 100%;
+    border: 1px;
+    
+ }
+
+#first-raw{
+   font-size: 100%;
+   color:  hsl(14, 45%, 36%);
+   font-weight: bold;
+
+}
+
+#second-raw{
+   font-size: 16px;
+   color: hsl(14, 45%, 36%) ;
+   font-weight: bold;
+
+}
+
+#third-raw{
+   font-size: 16px;
+   color: hsl(14, 45%, 36%);
+   font-weight: bold;
+}
+
+#fourth-raw{
+   font-size: 16px;
+   color:  hsl(14, 45%, 36%);
+   font-weight: bold;
+    
+}
+
+.preparation-time{
+   background-color: rgb(249, 236, 250);
+   letter-spacing: 1px;
+   line-height: 30px;
+   text-indent: 20px;
+   }
+
+   #third-number{
+      color: hsl(14, 45%, 36%) ;
+   }
+
+   #first-number{
+      color:hsl(14, 45%, 36%) ;
+   }
+
+   #second-number{
+      color:hsl(14, 45%, 36%) ;
+
+   }
+
+   #fourth-number{
+      color:hsl(14, 45%, 36%)  ;
+   }
+
+   #fifth-number{
+      color: hsl(14, 45%, 36%) ;
+   }
+   
+   #sixth-number{
+      color: hsl(14, 45%, 36%) ;
+   }
+
+   .principal-div{
+      background-color: white;
+      padding: 15px;
+      font-size: 16px;
+      font-style: normal;
+      border-radius: 5%;
+   
+
+   
+      
+   
+   }
